@@ -1,0 +1,6 @@
+C:\Users\OCABRERA\Desktop\varios\Ordenar_Sort\Ordenar_Sort\bin\Debug\Ordenar_Sort.exe.config
+C:\Users\OCABRERA\Desktop\varios\Ordenar_Sort\Ordenar_Sort\bin\Debug\Ordenar_Sort.exe
+C:\Users\OCABRERA\Desktop\varios\Ordenar_Sort\Ordenar_Sort\bin\Debug\Ordenar_Sort.pdb
+C:\Users\OCABRERA\Desktop\varios\Ordenar_Sort\Ordenar_Sort\obj\Debug\Ordenar_Sort.csprojResolveAssemblyReference.cache
+C:\Users\OCABRERA\Desktop\varios\Ordenar_Sort\Ordenar_Sort\obj\Debug\Ordenar_Sort.exe
+C:\Users\OCABRERA\Desktop\varios\Ordenar_Sort\Ordenar_Sort\obj\Debug\Ordenar_Sort.pdb
